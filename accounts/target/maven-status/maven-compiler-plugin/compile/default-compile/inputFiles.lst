@@ -2,6 +2,7 @@ C:\Users\NAMLT24\IdeaProjects\microservices\accounts\src\main\java\com\eazybytes
 C:\Users\NAMLT24\IdeaProjects\microservices\accounts\src\main\java\com\eazybytes\accounts\audit\AuditAwareImpl.java
 C:\Users\NAMLT24\IdeaProjects\microservices\accounts\src\main\java\com\eazybytes\accounts\constants\AccountsConstants.java
 C:\Users\NAMLT24\IdeaProjects\microservices\accounts\src\main\java\com\eazybytes\accounts\controller\AccountsController.java
+C:\Users\NAMLT24\IdeaProjects\microservices\accounts\src\main\java\com\eazybytes\accounts\dto\AccountsContactInfoDto.java
 C:\Users\NAMLT24\IdeaProjects\microservices\accounts\src\main\java\com\eazybytes\accounts\dto\AccountsDto.java
 C:\Users\NAMLT24\IdeaProjects\microservices\accounts\src\main\java\com\eazybytes\accounts\dto\CustomerDto.java
 C:\Users\NAMLT24\IdeaProjects\microservices\accounts\src\main\java\com\eazybytes\accounts\dto\ErrorResponseDto.java
